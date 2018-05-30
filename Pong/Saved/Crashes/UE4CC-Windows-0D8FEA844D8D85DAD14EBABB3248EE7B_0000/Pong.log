@@ -1,0 +1,1381 @@
+﻿Log file open, 05/30/18 18:28:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pong
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1539827479) SRandInit(-1539827479).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156422
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Gdev/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.30-15.28.07:083][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.30-15.28.07:083][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.30-15.28.07:092][  0]LogInit: Computer: DESKTOP-97J6FQP
+[2018.05.30-15.28.07:092][  0]LogInit: User: BoGoMoL
+[2018.05.30-15.28.07:092][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.30-15.28.07:092][  0]LogInit: High frequency timer resolution =3.515624 MHz
+[2018.05.30-15.28.07:092][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.30-15.28.07:092][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.30-15.28.07:092][  0]LogMemory: Process Physical Memory: 276.11 MB used, 276.11 MB peak
+[2018.05.30-15.28.07:092][  0]LogMemory: Process Virtual Memory: 272.16 MB used, 272.16 MB peak
+[2018.05.30-15.28.07:092][  0]LogMemory: Physical Memory: 5877.83 MB used,  10445.98 MB free, 16323.81 MB total
+[2018.05.30-15.28.07:092][  0]LogMemory: Virtual Memory: 680.28 MB used,  10445.98 MB free, 134217728.00 MB total
+[2018.05.30-15.28.07:178][  0]LogInit: Using OS detected language (ru-RU).
+[2018.05.30-15.28.07:178][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.05.30-15.28.07:180][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.05.30-15.28.07:180][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.05.30-15.28.07:517][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.30-15.28.07:694][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.30-15.28.07:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.30-15.28.07:732][  0]LogD3D11RHI:       8088/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.30-15.28.07:734][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.30-15.28.07:734][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.30-15.28.07:734][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.30-15.28.07:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.30-15.28.07:738][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.30-15.28.07:738][  0]LogWindows: EnumDisplayDevices:
+[2018.05.30-15.28.07:738][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.30-15.28.07:738][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.30-15.28.07:738][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.30-15.28.07:738][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.30-15.28.07:738][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.30-15.28.07:738][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.30-15.28.07:738][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.30-15.28.07:738][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.30-15.28.07:738][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.30-15.28.07:763][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.30-15.28.07:779][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.30-15.28.07:826][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../Unreal Projects/Pong/Intermediate/Shaders/WorkingDirectory/5228/).
+[2018.05.30-15.28.07:826][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/BoGoMoL/AppData/Local/Temp/UnrealShaderWorkingDir/B42AF27948C925E41D7949B658E7EE3E/'.
+[2018.05.30-15.28.07:826][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.30-15.28.08:599][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.30-15.28.08:632][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.30-15.28.08:663][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.30-15.28.08:698][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.30-15.28.08:735][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.30-15.28.08:771][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.30-15.28.08:822][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.30-15.28.08:863][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.30-15.28.08:894][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.30-15.28.08:931][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.30-15.28.08:967][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.30-15.28.09:007][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.30-15.28.09:058][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.30-15.28.09:099][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.30-15.28.09:165][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.30-15.28.09:165][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.30-15.28.09:196][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.30-15.28.09:218][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.30-15.28.09:281][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.30-15.28.09:298][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.30-15.28.09:335][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.30-15.28.09:368][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.30-15.28.09:404][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.30-15.28.09:438][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.30-15.28.09:438][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.30-15.28.09:737][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: Loaded boot cache 0.06s 80MB C:/Users/BoGoMoL/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/BoGoMoL/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/Pong/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/Pong/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.30-15.28.09:798][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.30-15.28.09:813][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.30-15.28.09:825][  0]LogDerivedDataCache: Using Local data cache path C:/Users/BoGoMoL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.30-15.28.09:833][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.30-15.28.09:834][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.30-15.28.09:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.30-15.28.09:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.30-15.28.10:118][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.30-15.28.10:339][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.30-15.28.10:365][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.30-15.28.10:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.30-15.28.10:365][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.30-15.28.10:365][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.30-15.28.10:365][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.30-15.28.10:385][  0]LogNetVersion: Pong , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1598552168)
+[2018.05.30-15.28.10:528][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.05.30-15.28.10:870][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.022794 seconds
+[2018.05.30-15.28.10:875][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.30-15.28.10:875][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.30-15.28.10:875][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.30-15.28.10:916][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.30-15.28.12:913][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.30-15.28.12:944][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.30-15.28.13:414][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.30-15.28.13:708][  0]SourceControl: Source control is disabled
+[2018.05.30-15.28.13:709][  0]SourceControl: Source control is disabled
+[2018.05.30-15.28.13:743][  0]SourceControl: Source control is disabled
+[2018.05.30-15.28.13:776][  0]SourceControl: Source control is disabled
+[2018.05.30-15.28.14:296][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.30-15.28.14:471][  0]LogOcInput: OculusInput pre-init called
+[2018.05.30-15.28.14:666][  0]LogEngine: Initializing Engine...
+[2018.05.30-15.28.14:668][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.30-15.28.14:840][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.30-15.28.14:840][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.30-15.28.14:917][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.30-15.28.14:929][  0]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.28.14:938][  0]LogInit: FAudioDevice initialized.
+[2018.05.30-15.28.15:022][  0]LogDerivedDataCache: Saved boot cache 0.08s 80MB C:/Users/BoGoMoL/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.30-15.28.15:032][  0]LogInit: Texture streaming: Enabled
+[2018.05.30-15.28.15:092][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.30-15.28.15:169][  0]LogInit: Transaction tracking system initialized
+[2018.05.30-15.28.15:363][  0]BlueprintLog: New page: Editor Load
+[2018.05.30-15.28.15:970][  0]LocalizationService: Localization service is disabled
+[2018.05.30-15.28.16:473][  0]LogConsoleResponse: Display: 
+[2018.05.30-15.28.16:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.30-15.28.16:610][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.30-15.28.16:610][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.30-15.28.17:412][  0]LogFileCache: Scanning file cache for directory 'D:/Gdev/Unreal Projects/Pong/Content/' took 0.01s
+[2018.05.30-15.28.17:448][  0]SourceControl: Source control is disabled
+[2018.05.30-15.28.17:448][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.30-15.28.17:448][  0]LightingResults: New page: Lighting Build
+[2018.05.30-15.28.17:480][  0]MapCheck: New page: Map Check
+[2018.05.30-15.28.17:480][  0]LightingResults: New page: Lighting Build
+[2018.05.30-15.28.17:573][  0]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.28.17:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.30-15.28.17:586][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.30-15.28.17:621][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.153ms to complete.
+[2018.05.30-15.28.17:621][  0]LogFileHelpers: Loading map 'Field_Main' took 0.174
+[2018.05.30-15.28.17:687][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.30-15.28.17:756][  0]LogCollectionManager: Loaded 0 collections in 0.001241 seconds
+[2018.05.30-15.28.17:822][  0]LogFileCache: Scanning file cache for directory 'D:/Gdev/Unreal Projects/Pong/Saved/Collections/' took 0.01s
+[2018.05.30-15.28.17:822][  0]LogFileCache: Scanning file cache for directory 'D:/Gdev/Unreal Projects/Pong/Content/Developers/BoGoMoL/Collections/' took 0.01s
+[2018.05.30-15.28.17:822][  0]LogFileCache: Scanning file cache for directory 'D:/Gdev/Unreal Projects/Pong/Content/Collections/' took 0.01s
+[2018.05.30-15.28.17:822][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.30-15.28.17:831][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2363 classes and 519 folders.
+[2018.05.30-15.28.17:882][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.30-15.28.17:908][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.30-15.28.17:940][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.30-15.28.17:998][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.30-15.28.18:000][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.30-15.28.18:006][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.30-15.28.18:107][  0]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1).
+[2018.05.30-15.28.18:224][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.30-15.28.18:224][  0]LogLoad: (Engine Initialization) Total time: 12.81 seconds
+[2018.05.30-15.28.18:224][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.30-15.28.18:224][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.30-15.28.18:249][  0]LogAssetRegistry: Asset discovery search completed in 7.7419 seconds
+[2018.05.30-15.28.18:250][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.30-15.28.18:250][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.05.30-15.28.18:253][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.30-15.28.18:313][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.30-15.28.19:250][105]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.30-15.28.21:625][388]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.30-15.28.21:887][388]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.05.30-15.28.22:408][388]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.30-15.28.22:498][389]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.30-15.34.25:273][327]BlueprintLog: New page: Compile BP_Hockey
+[2018.05.30-15.34.25:284][327]LogBlueprint: Error: [Compiler BP_Hockey] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.30-15.34.25:368][327]LogBlueprint: Warning: [Compiler BP_Hockey] [0379.95] Compile of BP_Hockey failed. 1 Fatal Issue(s) 0 Warning(s) [in 95 ms] (/Game/BP/BP_Hockey.BP_Hockey)
+[2018.05.30-15.34.36:477][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Hockey" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset" SILENT=true
+[2018.05.30-15.34.36:520][656]LogSavePackage: Save=36.10ms
+[2018.05.30-15.34.36:520][656]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_HockeyA04164004899AC03D2C60AB465947C6C.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset'
+[2018.05.30-15.34.36:521][656]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset
+[2018.05.30-15.34.37:263][745]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.34.37:293][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.34.37:293][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.34.40:658][745]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:34:40 PM)
+[2018.05.30-15.34.40:658][745]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.34.40:660][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002393s)
+[2018.05.30-15.34.40:661][745]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.34.40:661][745]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.05.30-15.34.40:661][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.003201s)
+[2018.05.30-15.34.40:678][745]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.34.40:684][745]LogInit: FAudioDevice initialized.
+[2018.05.30-15.34.40:733][745]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.34.40:735][745]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.34.40
+[2018.05.30-15.34.40:736][745]LogWorld: Bringing up level for play took: 0.000845
+[2018.05.30-15.34.40:762][745]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.30-15.34.40:764][745]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 3.776
+[2018.05.30-15.34.40:764][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.34.40:831][745]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.30-15.34.44:321][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.34.44:366][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.22:703][460]BlueprintLog: New page: Compile BP_Hockey
+[2018.05.30-15.36.23:714][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Hockey" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset" SILENT=true
+[2018.05.30-15.36.23:755][568]LogSavePackage: Save=37.70ms
+[2018.05.30-15.36.23:755][568]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Hockey1A086B6840EB46862BE00ABFAA199A20.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset'
+[2018.05.30-15.36.23:757][568]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset
+[2018.05.30-15.36.24:515][658]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.36.24:532][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.24:532][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.36.24:533][658]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:36:24 PM)
+[2018.05.30-15.36.24:533][658]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.36.24:535][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001928s)
+[2018.05.30-15.36.24:535][658]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.36.24:535][658]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2018.05.30-15.36.24:535][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002535s)
+[2018.05.30-15.36.24:551][658]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.36.24:555][658]LogInit: FAudioDevice initialized.
+[2018.05.30-15.36.24:586][658]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.36.24:587][658]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.24:587][658]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.24:587][658]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.36.24
+[2018.05.30-15.36.24:588][658]LogWorld: Bringing up level for play took: 0.000799
+[2018.05.30-15.36.24:589][658]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.399
+[2018.05.30-15.36.24:589][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.31:640][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.31:688][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.33:321][680]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.36.33:334][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.33:334][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.36.33:334][680]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:36:33 PM)
+[2018.05.30-15.36.33:334][680]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.36.33:336][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002082s)
+[2018.05.30-15.36.33:337][680]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.36.33:337][680]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.05.30-15.36.33:337][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002820s)
+[2018.05.30-15.36.33:353][680]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.36.33:357][680]LogInit: FAudioDevice initialized.
+[2018.05.30-15.36.33:396][680]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.36.33:397][680]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.33:397][680]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.33:397][680]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.36.33
+[2018.05.30-15.36.33:397][680]LogWorld: Bringing up level for play took: 0.000874
+[2018.05.30-15.36.33:400][680]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.412
+[2018.05.30-15.36.33:400][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.36:760][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.36:807][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.56:575][438]BlueprintLog: New page: Compile BP_Hockey
+[2018.05.30-15.36.57:272][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Hockey" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset" SILENT=true
+[2018.05.30-15.36.57:312][487]LogSavePackage: Save=37.05ms
+[2018.05.30-15.36.57:312][487]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Hockey38A2B3984DACD0063A2744A4682A949C.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset'
+[2018.05.30-15.36.57:313][487]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset
+[2018.05.30-15.36.57:794][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.36.57:811][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.36.57:811][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.36.57:811][544]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:36:57 PM)
+[2018.05.30-15.36.57:811][544]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.36.57:813][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001984s)
+[2018.05.30-15.36.57:813][544]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.36.57:814][544]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2018.05.30-15.36.57:814][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002586s)
+[2018.05.30-15.36.57:830][544]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.36.57:835][544]LogInit: FAudioDevice initialized.
+[2018.05.30-15.36.57:871][544]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.36.57:872][544]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.57:872][544]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.36.57:873][544]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.36.57
+[2018.05.30-15.36.57:873][544]LogWorld: Bringing up level for play took: 0.000813
+[2018.05.30-15.36.57:874][544]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.886
+[2018.05.30-15.36.57:874][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.02:512][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.02:556][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.03:406][184]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.37.03:418][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.03:418][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.37.03:418][184]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:37:03 PM)
+[2018.05.30-15.37.03:418][184]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.37.03:420][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001951s)
+[2018.05.30-15.37.03:420][184]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.37.03:420][184]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2018.05.30-15.37.03:420][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002592s)
+[2018.05.30-15.37.03:435][184]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.37.03:440][184]LogInit: FAudioDevice initialized.
+[2018.05.30-15.37.03:477][184]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.37.03:479][184]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.03:479][184]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.03:479][184]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.37.03
+[2018.05.30-15.37.03:479][184]LogWorld: Bringing up level for play took: 0.000935
+[2018.05.30-15.37.03:482][184]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.494
+[2018.05.30-15.37.03:482][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.06:936][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.06:982][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.07:856][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.37.07:869][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.07:869][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.37.07:869][692]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:37:07 PM)
+[2018.05.30-15.37.07:869][692]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.37.07:871][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001962s)
+[2018.05.30-15.37.07:872][692]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.37.07:872][692]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.05.30-15.37.07:872][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002685s)
+[2018.05.30-15.37.07:887][692]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.37.07:892][692]LogInit: FAudioDevice initialized.
+[2018.05.30-15.37.07:927][692]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.37.07:928][692]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.07:928][692]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.07:928][692]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.37.07
+[2018.05.30-15.37.07:928][692]LogWorld: Bringing up level for play took: 0.000923
+[2018.05.30-15.37.07:931][692]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.942
+[2018.05.30-15.37.07:931][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.10:690][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.10:733][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.12:090][174]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.37.12:102][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.12:102][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.37.12:102][174]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:37:12 PM)
+[2018.05.30-15.37.12:102][174]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.37.12:104][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002021s)
+[2018.05.30-15.37.12:104][174]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.37.12:104][174]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.05.30-15.37.12:104][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002671s)
+[2018.05.30-15.37.12:120][174]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.37.12:125][174]LogInit: FAudioDevice initialized.
+[2018.05.30-15.37.12:160][174]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.37.12:161][174]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.12:161][174]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.12:161][174]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.37.12
+[2018.05.30-15.37.12:161][174]LogWorld: Bringing up level for play took: 0.000801
+[2018.05.30-15.37.12:164][174]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.824
+[2018.05.30-15.37.12:164][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.16:230][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.16:274][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.48:037][422]BlueprintLog: New page: Compile BP_Hockey
+[2018.05.30-15.37.48:658][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Hockey" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset" SILENT=true
+[2018.05.30-15.37.48:699][461]LogSavePackage: Save=37.58ms
+[2018.05.30-15.37.48:699][461]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Hockey8DCA4B4F42B7C55B2294F4B7C104EE7B.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset'
+[2018.05.30-15.37.48:700][461]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset
+[2018.05.30-15.37.50:258][646]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.37.50:275][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.50:275][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.37.50:275][646]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:37:50 PM)
+[2018.05.30-15.37.50:275][646]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.37.50:277][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2018.05.30-15.37.50:277][646]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.37.50:278][646]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2018.05.30-15.37.50:278][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002579s)
+[2018.05.30-15.37.50:294][646]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.37.50:298][646]LogInit: FAudioDevice initialized.
+[2018.05.30-15.37.50:328][646]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.37.50:330][646]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.50:330][646]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.37.50:330][646]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.37.50
+[2018.05.30-15.37.50:330][646]LogWorld: Bringing up level for play took: 0.000800
+[2018.05.30-15.37.50:331][646]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.657
+[2018.05.30-15.37.50:332][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.55:420][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.37.55:453][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.38.56:359][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_s/Field_Main" FILE="../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.30-15.38.56:463][652]LogSavePackage: Save=97.24ms
+[2018.05.30-15.38.56:463][652]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/Field_Main_Auto1C29B16BC4441A5BAABA282A00CB510DA.tmp' to '../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto1.umap'
+[2018.05.30-15.38.56:464][652]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto1.umap
+[2018.05.30-15.38.56:467][652]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_s/Field_Main' took 0.121
+[2018.05.30-15.38.56:467][652]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 1 (Closing connection 2)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 3 (  Trying 34.206.56.152...)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 4 (connect to 34.206.56.152 port 443 failed: Timed out)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 5 (  Trying 34.206.255.118...)
+[2018.05.30-15.40.06:456][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 6 (connect to 34.206.255.118 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 7 (  Trying 34.207.10.243...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 8 (connect to 34.207.10.243 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 9 (  Trying 34.224.106.243...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 10 (connect to 34.224.106.243 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 11 (  Trying 34.224.125.210...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 12 (connect to 34.224.125.210 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 13 (  Trying 34.224.244.105...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 14 (connect to 34.224.244.105 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 15 (  Trying 34.225.34.243...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 16 (connect to 34.225.34.243 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 17 (  Trying 34.228.126.143...)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 18 (connect to 34.228.126.143 port 443 failed: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-15.40.06:457][294]LogHttp: Warning: 000001C5ABCF9600: libcurl info message cache 20 (Closing connection 3)
+[2018.05.30-15.42.46:198][201]LogEditorViewport: Clicking on Actor (LMB): BP_Hockey_C (BP_Hockey)
+[2018.05.30-15.44.31:551][431]BlueprintLog: New page: Compile BP_Hockey
+[2018.05.30-15.44.32:269][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Hockey" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset" SILENT=true
+[2018.05.30-15.44.32:327][480]LogSavePackage: Save=50.04ms
+[2018.05.30-15.44.32:327][480]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Hockey01E8255743CD58B3266F3D9280B2E674.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset'
+[2018.05.30-15.44.32:328][480]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Hockey.uasset
+[2018.05.30-15.44.33:238][588]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-15.44.33:257][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.44.33:257][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-15.44.33:257][588]PIE: New page: PIE session: Field_Main (May 30, 2018, 9:44:33 PM)
+[2018.05.30-15.44.33:257][588]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-15.44.33:259][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002152s)
+[2018.05.30-15.44.33:259][588]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-15.44.33:260][588]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.05.30-15.44.33:260][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002828s)
+[2018.05.30-15.44.33:276][588]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-15.44.33:281][588]LogInit: FAudioDevice initialized.
+[2018.05.30-15.44.33:315][588]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-15.44.33:317][588]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.44.33:317][588]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-15.44.33:317][588]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-18.44.33
+[2018.05.30-15.44.33:317][588]LogWorld: Bringing up level for play took: 0.001033
+[2018.05.30-15.44.33:319][588]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.331
+[2018.05.30-15.44.33:319][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c604333fb8 [serially])
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 2 (  Trying 34.202.80.111...)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 3 (connect to 34.202.80.111 port 443 failed: Timed out)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 4 (  Trying 34.202.96.104...)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 5 (connect to 34.202.96.104 port 443 failed: Timed out)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 6 (  Trying 34.195.61.250...)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 7 (Connected to datarouter.ol.epicgames.com (34.195.61.250) port 443 (#7))
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 10 (SSL re-using session ID)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 11 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 12 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.30-15.45.22:789][908]LogHttp: Warning: 000001C602E6E080: libcurl info message cache 13 (Closing connection 7)
+[2018.05.30-15.45.37:102][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.45.37:167][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-15.46.06:491][250]LogHttp: Warning: 000001C5B64AA680: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-15.46.06:491][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 1 (Closing connection 5)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 3 (  Trying 34.235.211.110...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 4 (connect to 34.235.211.110 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 5 (  Trying 34.236.137.99...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 6 (connect to 34.236.137.99 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 7 (  Trying 34.233.8.184...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 8 (connect to 34.233.8.184 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 9 (  Trying 34.233.223.249...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 10 (connect to 34.233.223.249 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 11 (  Trying 34.233.246.175...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 12 (connect to 34.233.246.175 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 13 (  Trying 34.234.148.21...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 14 (connect to 34.234.148.21 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 15 (  Trying 34.234.228.226...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 16 (connect to 34.234.228.226 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 17 (  Trying 34.235.83.12...)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 18 (connect to 34.235.83.12 port 443 failed: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-15.46.06:492][250]LogHttp: Warning: 000001C5B64AA680: libcurl info message cache 20 (Closing connection 6)
+[2018.05.30-15.50.00:878][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_s/Field_Main" FILE="../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.30-15.50.00:994][952]LogSavePackage: Save=104.42ms
+[2018.05.30-15.50.00:994][952]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/Field_Main_Auto23361B70145DB9FF4F7CD6ABA68E0CE95.tmp' to '../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto2.umap'
+[2018.05.30-15.50.00:995][952]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/Level_s/Field_Main_Auto2.umap
+[2018.05.30-15.50.00:996][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_s/Field_Main' took 0.147
+[2018.05.30-15.50.00:996][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2018.05.30-15.58.51:302][ 48]LogRenderer: Reallocating scene render targets to support 1396x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.30-15.58.52:994][247]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-15.58.53:538][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-15.58.53:555][291]LogSavePackage: Save=15.05ms
+[2018.05.30-15.58.53:555][291]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L2164E8A44B9C59A2C757129B61F45F78.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-15.58.53:556][291]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-15.59.52:019][772]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-15.59.52:621][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-15.59.52:643][814]LogSavePackage: Save=14.86ms
+[2018.05.30-15.59.52:643][814]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_LC34E64A14D9A8C54F408CD8AB5F75FEF.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-15.59.52:645][814]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.01.39:564][455]LogBlueprint: Warning: [BP_Racket_L] 'Racket_Mesh' variable not found. Base class was probably changed. /Game/BP/BP_Racket_L.BP_Racket_L
+[2018.05.30-16.02.21:081][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_s/Field_Main' took 0.041
+[2018.05.30-16.02.21:083][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Racket_L] ([1] browsable assets)...
+[2018.05.30-16.02.21:102][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Racket_L.BP_Racket_L]
+[2018.05.30-16.02.21:102][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Racket_L]
+[2018.05.30-16.02.21:102][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/BP/BP_Racket_L_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.05.30-16.02.21:144][752]LogSavePackage: Save=37.97ms
+[2018.05.30-16.02.21:144][752]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L_Auto3F0915AB24916707F48EBF2BEAAE0F7D9.tmp' to '../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/BP/BP_Racket_L_Auto3.uasset'
+[2018.05.30-16.02.21:144][752]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Saved/Autosaves/Game/BP/BP_Racket_L_Auto3.uasset
+[2018.05.30-16.02.21:144][752]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.05.30-16.03.25:094][729]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.03.25:900][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.03.25:940][796]LogSavePackage: Save=36.54ms
+[2018.05.30-16.03.25:940][796]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L4A2E590A4CA6AD1839CC348F13245FAC.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.03.25:941][796]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.03.26:608][875]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.03.26:623][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.03.26:623][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.03.26:623][875]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:03:26 PM)
+[2018.05.30-16.03.26:623][875]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.03.26:625][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2018.05.30-16.03.26:625][875]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.03.26:626][875]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2018.05.30-16.03.26:626][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002621s)
+[2018.05.30-16.03.26:644][875]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.03.26:649][875]LogInit: FAudioDevice initialized.
+[2018.05.30-16.03.26:687][875]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.03.26:688][875]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.03.26:688][875]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.03.26:689][875]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.03.26
+[2018.05.30-16.03.26:689][875]LogWorld: Bringing up level for play took: 0.000963
+[2018.05.30-16.03.26:692][875]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.297
+[2018.05.30-16.03.26:692][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.03.37:495][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.03.37:542][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.04.27:755][806]LogHttp: Warning: 000001C636A8EF80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 0 (Connection 9 seems to be dead!)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 1 (Closing connection 9)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 3 (  Trying 34.233.154.194...)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 4 (connect to 34.233.154.194 port 443 failed: Timed out)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 5 (  Trying 34.233.223.249...)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 6 (connect to 34.233.223.249 port 443 failed: Timed out)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 7 (  Trying 34.233.246.175...)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 8 (connect to 34.233.246.175 port 443 failed: Timed out)
+[2018.05.30-16.04.27:756][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 9 (  Trying 34.234.148.21...)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 10 (connect to 34.234.148.21 port 443 failed: Timed out)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 11 (  Trying 34.234.228.226...)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 12 (connect to 34.234.228.226 port 443 failed: Timed out)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 13 (  Trying 34.232.82.35...)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 14 (connect to 34.232.82.35 port 443 failed: Timed out)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 15 (  Trying 34.232.103.5...)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 16 (connect to 34.232.103.5 port 443 failed: Timed out)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 17 (  Trying 34.233.8.184...)
+[2018.05.30-16.04.27:757][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 18 (connect to 34.233.8.184 port 443 failed: Timed out)
+[2018.05.30-16.04.27:758][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-16.04.27:758][806]LogHttp: Warning: 000001C636A8EF80: libcurl info message cache 20 (Closing connection 10)
+[2018.05.30-16.05.15:727][958]BlueprintLog: New page: Compile BP_Racket_R
+[2018.05.30-16.05.16:359][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_R" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_R.uasset" SILENT=true
+[2018.05.30-16.05.16:402][  4]LogSavePackage: Save=35.61ms
+[2018.05.30-16.05.16:402][  4]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_RB5BADC394D3451E1590290B19A8C7676.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_R.uasset'
+[2018.05.30-16.05.16:403][  4]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_R.uasset
+[2018.05.30-16.05.17:061][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.05.17:076][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.05.17:076][ 83]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.30-16.05.17:081][ 83]LogPlayLevel: [PlayLevel] Compiling BP_Racket_L before play...
+[2018.05.30-16.05.17:320][ 83]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2018.05.30-16.05.17:320][ 83]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:05:17 PM)
+[2018.05.30-16.05.17:320][ 83]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.05.17:322][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2018.05.30-16.05.17:323][ 83]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.05.17:323][ 83]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.05.30-16.05.17:323][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002904s)
+[2018.05.30-16.05.17:341][ 83]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.05.17:345][ 83]LogInit: FAudioDevice initialized.
+[2018.05.30-16.05.17:377][ 83]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.05.17:379][ 83]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.05.17:379][ 83]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.05.17:379][ 83]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.05.17
+[2018.05.30-16.05.17:379][ 83]LogWorld: Bringing up level for play took: 0.000817
+[2018.05.30-16.05.17:382][ 83]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.394
+[2018.05.30-16.05.17:382][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.05.22:854][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.05.22:897][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.05.41:112][917]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.05.41:122][917]LogBlueprint: Warning: [Compiler BP_Racket_L] Could not find a variable named "Racket_Mesh" in 'BP_Racket_L_C'.
+Make sure 'BP_Racket_L_C' has been compiled for  Get Racket_Mesh
+[2018.05.30-16.05.41:123][917]LogBlueprint: Error: [Compiler BP_Racket_L] The property associated with  Racket Mesh  could not be found
+[2018.05.30-16.05.41:201][917]LogBlueprint: Warning: [Compiler BP_Racket_L] [2255.79] Compile of BP_Racket_L failed. 1 Fatal Issue(s) 1 Warning(s) [in 88 ms] (/Game/BP/BP_Racket_L.BP_Racket_L)
+[2018.05.30-16.05.59:417][ 68]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.05.59:880][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.05.59:922][109]LogSavePackage: Save=35.53ms
+[2018.05.30-16.05.59:922][109]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_LF4AC1BE84935DE3EE64D9FB6BAFFD45A.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.05.59:923][109]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.06.00:488][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.06.00:503][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.06.00:503][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.06.00:504][176]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:06:00 PM)
+[2018.05.30-16.06.00:504][176]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.06.00:506][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002215s)
+[2018.05.30-16.06.00:506][176]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.06.00:506][176]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2018.05.30-16.06.00:507][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002882s)
+[2018.05.30-16.06.00:524][176]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.06.00:529][176]LogInit: FAudioDevice initialized.
+[2018.05.30-16.06.00:562][176]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.06.00:563][176]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.06.00:563][176]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.06.00:563][176]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.06.00
+[2018.05.30-16.06.00:563][176]LogWorld: Bringing up level for play took: 0.000878
+[2018.05.30-16.06.00:566][176]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.422
+[2018.05.30-16.06.00:566][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.06.09:123][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.06.09:169][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.06.21:110][918]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.06.21:120][918]LogBlueprint: Error: [Compiler BP_Racket_L] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.30-16.06.21:197][918]LogBlueprint: Warning: [Compiler BP_Racket_L] [2295.78] Compile of BP_Racket_L failed. 1 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/BP/BP_Racket_L.BP_Racket_L)
+[2018.05.30-16.06.31:927][197]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.06.36:096][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.06.36:135][682]LogSavePackage: Save=35.96ms
+[2018.05.30-16.06.36:135][682]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L7A10159C4421089D7D1F69B08907EE2C.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.06.36:136][682]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.07.11:450][914]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.07.11:466][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.11:466][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.07.11:466][914]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:07:11 PM)
+[2018.05.30-16.07.11:466][914]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.07.11:468][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001954s)
+[2018.05.30-16.07.11:469][914]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.07.11:469][914]LogPlayLevel: PIE: World Init took: (0.000402s)
+[2018.05.30-16.07.11:469][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002529s)
+[2018.05.30-16.07.11:487][914]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.07.11:492][914]LogInit: FAudioDevice initialized.
+[2018.05.30-16.07.11:520][914]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.07.11:522][914]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.11:522][914]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.11:522][914]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.07.11
+[2018.05.30-16.07.11:522][914]LogWorld: Bringing up level for play took: 0.000831
+[2018.05.30-16.07.11:523][914]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.535
+[2018.05.30-16.07.11:523][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.15:945][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.15:979][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.17:287][595]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.07.17:302][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.17:302][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.07.17:302][595]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:07:17 PM)
+[2018.05.30-16.07.17:302][595]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.07.17:304][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2018.05.30-16.07.17:305][595]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.07.17:305][595]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2018.05.30-16.07.17:305][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002542s)
+[2018.05.30-16.07.17:323][595]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.07.17:328][595]LogInit: FAudioDevice initialized.
+[2018.05.30-16.07.17:358][595]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.07.17:359][595]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.17:359][595]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.17:359][595]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.07.17
+[2018.05.30-16.07.17:360][595]LogWorld: Bringing up level for play took: 0.000836
+[2018.05.30-16.07.17:360][595]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.372
+[2018.05.30-16.07.17:361][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.25:080][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.25:110][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.26:079][616]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.07.26:094][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.26:094][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.07.26:094][616]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:07:26 PM)
+[2018.05.30-16.07.26:094][616]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.07.26:096][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2018.05.30-16.07.26:097][616]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.07.26:097][616]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2018.05.30-16.07.26:097][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002670s)
+[2018.05.30-16.07.26:114][616]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.07.26:119][616]LogInit: FAudioDevice initialized.
+[2018.05.30-16.07.26:146][616]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.07.26:147][616]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.26:148][616]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.26:148][616]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.07.26
+[2018.05.30-16.07.26:148][616]LogWorld: Bringing up level for play took: 0.000799
+[2018.05.30-16.07.26:149][616]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.84
+[2018.05.30-16.07.26:149][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.27:753][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.27:789][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.33:399][478]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.07.52:954][821]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.07.52:969][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.52:970][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.07.52:970][821]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:07:52 PM)
+[2018.05.30-16.07.52:970][821]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.07.52:972][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001989s)
+[2018.05.30-16.07.52:972][821]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.07.52:972][821]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2018.05.30-16.07.52:972][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002607s)
+[2018.05.30-16.07.52:991][821]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.07.52:995][821]LogInit: FAudioDevice initialized.
+[2018.05.30-16.07.53:023][821]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.07.53:025][821]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.53:025][821]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.07.53:025][821]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.07.53
+[2018.05.30-16.07.53:025][821]LogWorld: Bringing up level for play took: 0.000863
+[2018.05.30-16.07.53:026][821]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=1970.000 Z=40.000] for [BP_Racket_R_C]
+[2018.05.30-16.07.53:026][821]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Racket_R_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 1970.000000 40.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.05.30-16.07.53:026][821]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.038
+[2018.05.30-16.07.53:026][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.55:156][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.07.55:191][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.02:645][956]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.08.07:025][479]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.08.08:232][623]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.08.08:247][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.08:247][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.08.08:247][623]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:08:08 PM)
+[2018.05.30-16.08.08:247][623]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.08.08:249][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002047s)
+[2018.05.30-16.08.08:250][623]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.08.08:250][623]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2018.05.30-16.08.08:250][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002676s)
+[2018.05.30-16.08.08:268][623]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.08.08:273][623]LogInit: FAudioDevice initialized.
+[2018.05.30-16.08.08:305][623]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.08.08:306][623]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.08:307][623]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.08:307][623]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.08.08
+[2018.05.30-16.08.08:307][623]LogWorld: Bringing up level for play took: 0.000840
+[2018.05.30-16.08.08:308][623]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.681
+[2018.05.30-16.08.08:308][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.11:021][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.11:055][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.13:114][192]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.08.18:239][800]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.08.18:254][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.18:254][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.08.18:255][800]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:08:18 PM)
+[2018.05.30-16.08.18:255][800]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.08.18:257][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2018.05.30-16.08.18:257][800]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.08.18:257][800]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2018.05.30-16.08.18:257][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002612s)
+[2018.05.30-16.08.18:274][800]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.08.18:279][800]LogInit: FAudioDevice initialized.
+[2018.05.30-16.08.18:309][800]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.08.18:311][800]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.18:311][800]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.18:311][800]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.08.18
+[2018.05.30-16.08.18:311][800]LogWorld: Bringing up level for play took: 0.000779
+[2018.05.30-16.08.18:312][800]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.676
+[2018.05.30-16.08.18:312][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.31:104][333]LogEditorViewport: Clicking on Actor (LMB): BP_Racket_R_C (BP_Racket_R)
+[2018.05.30-16.08.40:181][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.40:216][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.41:779][554]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.08.41:794][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.08.41:794][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.08.41:794][554]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:08:41 PM)
+[2018.05.30-16.08.41:794][554]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.08.41:796][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001958s)
+[2018.05.30-16.08.41:797][554]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.08.41:797][554]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2018.05.30-16.08.41:797][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002577s)
+[2018.05.30-16.08.41:814][554]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.08.41:819][554]LogInit: FAudioDevice initialized.
+[2018.05.30-16.08.41:852][554]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.08.41:853][554]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.41:854][554]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.08.41:854][554]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.08.41
+[2018.05.30-16.08.41:854][554]LogWorld: Bringing up level for play took: 0.000833
+[2018.05.30-16.08.41:855][554]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.866
+[2018.05.30-16.08.41:855][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.02:490][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.02:519][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.03:675][162]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.09.06:737][527]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.09.07:917][668]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.09.07:933][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.07:933][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.09.07:933][668]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:09:07 PM)
+[2018.05.30-16.09.07:933][668]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.09.07:936][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2018.05.30-16.09.07:936][668]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.09.07:936][668]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2018.05.30-16.09.07:936][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002753s)
+[2018.05.30-16.09.07:955][668]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.09.07:960][668]LogInit: FAudioDevice initialized.
+[2018.05.30-16.09.07:993][668]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.09.07:994][668]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.09.07:994][668]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.09.07:994][668]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.09.07
+[2018.05.30-16.09.07:994][668]LogWorld: Bringing up level for play took: 0.000885
+[2018.05.30-16.09.07:995][668]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 1.007
+[2018.05.30-16.09.07:996][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.34:765][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.34:799][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.36:150][ 37]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.09.38:219][283]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.09.40:493][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.09.40:508][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.40:508][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.09.40:508][555]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:09:40 PM)
+[2018.05.30-16.09.40:508][555]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.09.40:510][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2018.05.30-16.09.40:511][555]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.09.40:511][555]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2018.05.30-16.09.40:511][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002542s)
+[2018.05.30-16.09.40:528][555]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.09.40:533][555]LogInit: FAudioDevice initialized.
+[2018.05.30-16.09.40:560][555]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.09.40:562][555]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.09.40:562][555]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.09.40:562][555]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.09.40
+[2018.05.30-16.09.40:562][555]LogWorld: Bringing up level for play took: 0.000892
+[2018.05.30-16.09.40:563][555]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.425
+[2018.05.30-16.09.40:563][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.41:511][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.41:546][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.09.45:599][146]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.30-16.09.48:137][448]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.09.49:412][600]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.09.50:737][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.30-16.10.10:998][158]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.10.11:019][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.11:019][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.10.11:019][158]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:10:11 PM)
+[2018.05.30-16.10.11:019][158]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.10.11:021][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002037s)
+[2018.05.30-16.10.11:022][158]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.10.11:022][158]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.05.30-16.10.11:022][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002730s)
+[2018.05.30-16.10.11:040][158]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.10.11:045][158]LogInit: FAudioDevice initialized.
+[2018.05.30-16.10.11:075][158]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.10.11:076][158]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.11:076][158]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.11:076][158]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.10.11
+[2018.05.30-16.10.11:076][158]LogWorld: Bringing up level for play took: 0.000868
+[2018.05.30-16.10.11:077][158]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.089
+[2018.05.30-16.10.11:077][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 1 (Closing connection 12)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 3 (  Trying 34.224.125.210...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 4 (connect to 34.224.125.210 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 5 (  Trying 34.204.55.248...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 6 (connect to 34.204.55.248 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 7 (  Trying 34.205.124.114...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 8 (connect to 34.205.124.114 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 9 (  Trying 34.206.56.152...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 10 (connect to 34.206.56.152 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 11 (  Trying 34.206.173.2...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 12 (connect to 34.206.173.2 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 13 (  Trying 34.206.255.118...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 14 (connect to 34.206.255.118 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 15 (  Trying 34.207.10.243...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 16 (connect to 34.207.10.243 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 17 (  Trying 34.224.106.243...)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 18 (connect to 34.224.106.243 port 443 failed: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-16.10.17:837][969]LogHttp: Warning: 000001C624CAD900: libcurl info message cache 20 (Closing connection 13)
+[2018.05.30-16.10.18:066][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.18:101][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.22:524][522]LogEditorViewport: Clicking on Actor (LMB): BP_Racket_L_C (BP_Racket_L)
+[2018.05.30-16.10.34:423][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_45' invalid (24 verts, 0 indices).
+[2018.05.30-16.10.34:423][930]LogPhysics: Warning: Attempt to build physics data for /Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_45.BodySetup_45 when we are unable to.
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_46' invalid (24 verts, 0 indices).
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: Attempt to build physics data for /Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_46.BodySetup_46 when we are unable to.
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_47' invalid (24 verts, 0 indices).
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: Attempt to build physics data for /Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_47.BodySetup_47 when we are unable to.
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_48' invalid (24 verts, 0 indices).
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: Attempt to build physics data for /Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_48.BodySetup_48 when we are unable to.
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_49' invalid (24 verts, 0 indices).
+[2018.05.30-16.10.34:424][930]LogPhysics: Warning: Attempt to build physics data for /Game/Level_s/Field_Main.Field_Main:PersistentLevel.ModelComponent_49.BodySetup_49 when we are unable to.
+[2018.05.30-16.10.36:107][132]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.10.36:122][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.36:122][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.10.36:122][132]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:10:36 PM)
+[2018.05.30-16.10.36:122][132]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.10.36:124][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2018.05.30-16.10.36:125][132]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.10.36:125][132]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.05.30-16.10.36:125][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002687s)
+[2018.05.30-16.10.36:143][132]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.10.36:148][132]LogInit: FAudioDevice initialized.
+[2018.05.30-16.10.36:180][132]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.10.36:181][132]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.36:181][132]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.36:181][132]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.10.36
+[2018.05.30-16.10.36:182][132]LogWorld: Bringing up level for play took: 0.000850
+[2018.05.30-16.10.36:182][132]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.806
+[2018.05.30-16.10.36:189][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.41:499][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.41:531][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.56:569][557]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.10.56:583][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.10.56:583][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.10.56:583][557]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:10:56 PM)
+[2018.05.30-16.10.56:583][557]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.10.56:586][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002204s)
+[2018.05.30-16.10.56:586][557]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.10.56:586][557]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2018.05.30-16.10.56:586][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002848s)
+[2018.05.30-16.10.56:604][557]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.10.56:608][557]LogInit: FAudioDevice initialized.
+[2018.05.30-16.10.56:638][557]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.10.56:639][557]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.56:639][557]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.10.56:639][557]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.10.56
+[2018.05.30-16.10.56:639][557]LogWorld: Bringing up level for play took: 0.000848
+[2018.05.30-16.10.56:640][557]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.348
+[2018.05.30-16.10.56:640][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.11.09:795][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.11.09:831][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.11.17:576][ 56]LogEditorViewport: Clicking Background
+[2018.05.30-16.11.19:147][241]LogEditorViewport: Clicking Background
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c604333fe8 [serially])
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 2 (  Trying 34.231.103.121...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 3 (connect to 34.231.103.121 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 4 (  Trying 34.231.138.22...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 5 (connect to 34.231.138.22 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 6 (  Trying 34.231.157.209...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 7 (connect to 34.231.157.209 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 8 (  Trying 34.232.82.35...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 9 (connect to 34.232.82.35 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 10 (  Trying 34.232.103.5...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 11 (connect to 34.232.103.5 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 12 (  Trying 34.233.154.194...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 13 (connect to 34.233.154.194 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 14 (  Trying 34.233.223.249...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 15 (connect to 34.233.223.249 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 16 (  Trying 34.231.0.173...)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 17 (connect to 34.231.0.173 port 443 failed: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 18 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-16.11.44:489][590]LogHttp: Warning: 000001C590F49C00: libcurl info message cache 19 (Closing connection 14)
+[2018.05.30-16.12.10:805][655]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.12.11:958][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.12.12:005][757]LogSavePackage: Save=39.38ms
+[2018.05.30-16.12.12:006][757]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_LDD9A288E403ACF5DED6380A394DD90E2.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.12.12:007][757]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.12.13:061][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.12.13:081][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.12.13:081][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.12.13:081][883]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:12:13 PM)
+[2018.05.30-16.12.13:081][883]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.12.13:084][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002095s)
+[2018.05.30-16.12.13:084][883]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.12.13:084][883]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2018.05.30-16.12.13:084][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002831s)
+[2018.05.30-16.12.13:102][883]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.12.13:107][883]LogInit: FAudioDevice initialized.
+[2018.05.30-16.12.13:142][883]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.12.13:144][883]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.12.13:144][883]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.12.13:144][883]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.12.13
+[2018.05.30-16.12.13:144][883]LogWorld: Bringing up level for play took: 0.000977
+[2018.05.30-16.12.13:146][883]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.158
+[2018.05.30-16.12.13:146][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.12.18:138][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.12.18:183][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.12.57:086][631]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.12.57:705][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.12.57:744][670]LogSavePackage: Save=35.74ms
+[2018.05.30-16.12.57:744][670]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_LC863C8DD4B8D4435FDE9AFAD57477168.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.12.57:746][670]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.12.59:403][869]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.12.59:423][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.12.59:423][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.12.59:423][869]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:12:59 PM)
+[2018.05.30-16.12.59:423][869]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.12.59:425][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002032s)
+[2018.05.30-16.12.59:426][869]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.12.59:426][869]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2018.05.30-16.12.59:426][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002754s)
+[2018.05.30-16.12.59:444][869]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.12.59:449][869]LogInit: FAudioDevice initialized.
+[2018.05.30-16.12.59:482][869]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.12.59:484][869]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.12.59:484][869]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.12.59:484][869]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.12.59
+[2018.05.30-16.12.59:484][869]LogWorld: Bringing up level for play took: 0.000896
+[2018.05.30-16.12.59:486][869]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.498
+[2018.05.30-16.12.59:486][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.13.09:019][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.13.09:068][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.13.11:943][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_s/Field_Main" FILE="../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.30-16.13.12:065][346]LogSavePackage: Save=100.88ms
+[2018.05.30-16.13.12:065][346]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/Field_Main91CD74424F55FC48DD97E1A0CC124A03.tmp' to '../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap'
+[2018.05.30-16.13.12:068][346]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap
+[2018.05.30-16.13.15:292][574]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.30-16.13.15:328][574]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pong
+[2018.05.30-16.13.15:328][574]LogTemp: CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.13.15:328][574]LogTemp: Initial Dir: D:\Gdev\Epic Games\UE_4.18
+[2018.05.30-16.13.15:328][574]LogTemp: Env CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.13.15:328][574]LogTemp: BranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.30-16.13.15:331][574]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\BoGoMoL\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.30-16.14.05:602][564]Cmd: TRANSACTION UNDO
+[2018.05.30-16.14.05:602][564]LogEditorTransaction: Undo Edit Scale
+[2018.05.30-16.14.06:160][631]Cmd: TRANSACTION UNDO
+[2018.05.30-16.14.06:160][631]LogEditorTransaction: Undo Change Key Value
+[2018.05.30-16.14.07:545][797]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2018.05.30-16.14.07:929][843]LogEditorTransaction: Undo Change Key Value
+[2018.05.30-16.14.08:471][908]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.05.30-16.14.08:887][958]LogEditorTransaction: Undo Add Axis Mapping
+[2018.05.30-16.14.09:262][  3]LogEditorTransaction: Undo Delete Child
+[2018.05.30-16.14.09:679][ 53]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.05.30-16.14.10:029][ 95]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.05.30-16.14.10:354][134]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.05.30-16.14.10:662][171]LogEditorTransaction: Undo Add Axis Mapping
+[2018.05.30-16.14.13:504][512]LogEditorTransaction: Redo Add Axis Mapping
+[2018.05.30-16.14.14:637][648]LogEditorTransaction: Redo Rename Axis Mapping
+[2018.05.30-16.14.14:804][668]LogEditorTransaction: Redo Rename Axis Mapping
+[2018.05.30-16.14.14:971][688]LogEditorTransaction: Redo Rename Axis Mapping
+[2018.05.30-16.14.15:129][707]LogEditorTransaction: Redo Delete Child
+[2018.05.30-16.14.15:287][726]LogEditorTransaction: Redo Add Axis Mapping
+[2018.05.30-16.14.15:462][747]LogEditorTransaction: Redo Rename Axis Mapping
+[2018.05.30-16.14.15:629][767]LogEditorTransaction: Redo Change Key Value
+[2018.05.30-16.14.15:779][785]LogEditorTransaction: Redo Add Axis Mapping To Group
+[2018.05.30-16.14.15:946][805]LogEditorTransaction: Redo Change Key Value
+[2018.05.30-16.14.16:104][824]LogEditorTransaction: Redo Edit Scale
+[2018.05.30-16.15.15:188][537]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.05.30-16.15.15:188][537]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.05.30-16.15.15:188][537]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.05.30-16.15.17:925][865]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.15.18:598][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.15.18:637][908]LogSavePackage: Save=35.93ms
+[2018.05.30-16.15.18:637][908]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L994F64744FFD0623FC95DF87D756042A.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.15.18:638][908]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.15.20:557][138]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.15.20:577][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.15.20:577][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.15.20:577][138]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:15:20 PM)
+[2018.05.30-16.15.20:577][138]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.15.20:579][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002019s)
+[2018.05.30-16.15.20:580][138]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.15.20:580][138]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2018.05.30-16.15.20:580][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002660s)
+[2018.05.30-16.15.20:597][138]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.15.20:602][138]LogInit: FAudioDevice initialized.
+[2018.05.30-16.15.20:634][138]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.15.20:635][138]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.15.20:635][138]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.15.20:636][138]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.15.20
+[2018.05.30-16.15.20:636][138]LogWorld: Bringing up level for play took: 0.000814
+[2018.05.30-16.15.20:637][138]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.352
+[2018.05.30-16.15.20:637][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.15.29:308][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.15.29:338][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.15.42:666][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_s/Field_Main" FILE="../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.30-16.15.42:781][769]LogSavePackage: Save=98.02ms
+[2018.05.30-16.15.42:781][769]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/Field_Main1628DFCB470FF5AEEEA0AF94C60D85DD.tmp' to '../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap'
+[2018.05.30-16.15.42:783][769]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/Level_s/Field_Main.umap
+[2018.05.30-16.15.44:888][947]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.30-16.15.44:927][947]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pong
+[2018.05.30-16.15.44:927][947]LogTemp: CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.15.44:927][947]LogTemp: Initial Dir: D:\Gdev\Epic Games\UE_4.18
+[2018.05.30-16.15.44:927][947]LogTemp: Env CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.15.44:947][948]LogTemp: BranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.30-16.15.44:947][948]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\BoGoMoL\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.30-16.17.30:361][773]LogHttp: Warning: 000001C64F3C1C00: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.30-16.17.30:361][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 0 (Connection 17 seems to be dead!)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 1 (Closing connection 17)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 3 (  Trying 34.236.137.99...)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 4 (connect to 34.236.137.99 port 443 failed: Timed out)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 5 (  Trying 34.236.179.145...)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 6 (connect to 34.236.179.145 port 443 failed: Timed out)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 7 (  Trying 34.237.41.97...)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 8 (connect to 34.237.41.97 port 443 failed: Timed out)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 9 (  Trying 34.233.8.184...)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.233.8.184) port 443 (#18))
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 13 (SSL re-using session ID)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 15 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.30-16.17.30:362][773]LogHttp: Warning: 000001C64F3C1C00: libcurl info message cache 16 (Closing connection 18)
+[2018.05.30-16.18.38:301][891]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.18.38:316][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.18.38:316][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.18.38:316][891]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:18:38 PM)
+[2018.05.30-16.18.38:316][891]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.18.38:318][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002125s)
+[2018.05.30-16.18.38:319][891]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.18.38:319][891]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.05.30-16.18.38:319][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002850s)
+[2018.05.30-16.18.38:340][891]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.18.38:344][891]LogInit: FAudioDevice initialized.
+[2018.05.30-16.18.38:376][891]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.18.38:378][891]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.18.38:378][891]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.18.38:378][891]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.18.38
+[2018.05.30-16.18.38:378][891]LogWorld: Bringing up level for play took: 0.000982
+[2018.05.30-16.18.38:379][891]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.609
+[2018.05.30-16.18.38:379][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.18.52:443][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.18.52:479][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.18.59:839][382]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.30-16.18.59:874][383]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pong
+[2018.05.30-16.18.59:874][383]LogTemp: CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.18.59:874][383]LogTemp: Initial Dir: D:\Gdev\Epic Games\UE_4.18
+[2018.05.30-16.18.59:874][383]LogTemp: Env CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.18.59:885][384]LogTemp: BranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.30-16.18.59:892][385]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\BoGoMoL\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.30-16.19.45:635][851]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.19.45:649][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.19.45:649][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.19.45:649][851]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:19:45 PM)
+[2018.05.30-16.19.45:649][851]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.19.45:651][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002010s)
+[2018.05.30-16.19.45:652][851]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.19.45:652][851]LogPlayLevel: PIE: World Init took: (0.000405s)
+[2018.05.30-16.19.45:652][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002683s)
+[2018.05.30-16.19.45:670][851]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.19.45:675][851]LogInit: FAudioDevice initialized.
+[2018.05.30-16.19.45:703][851]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.19.45:704][851]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.19.45:704][851]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.19.45:705][851]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.19.45
+[2018.05.30-16.19.45:705][851]LogWorld: Bringing up level for play took: 0.000818
+[2018.05.30-16.19.45:705][851]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.717
+[2018.05.30-16.19.45:706][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.20.00:417][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.20.00:453][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.20.05:176][104]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.30-16.20.05:228][106]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pong
+[2018.05.30-16.20.05:228][106]LogTemp: CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.20.05:228][106]LogTemp: Initial Dir: D:\Gdev\Epic Games\UE_4.18
+[2018.05.30-16.20.05:229][106]LogTemp: Env CWD: D:\Gdev\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.30-16.20.05:229][106]LogTemp: BranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-97J6FQP/D/Gdev/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.30-16.20.05:236][107]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\BoGoMoL\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c604333fb8 [serially])
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 2 (  Trying 34.233.223.249...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 3 (connect to 34.233.223.249 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 4 (  Trying 34.233.246.175...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 5 (connect to 34.233.246.175 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 6 (  Trying 34.234.148.21...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 7 (connect to 34.234.148.21 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 8 (  Trying 34.234.228.226...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 9 (connect to 34.234.228.226 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 10 (  Trying 34.232.82.35...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 11 (connect to 34.232.82.35 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 12 (  Trying 34.232.103.5...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 13 (connect to 34.232.103.5 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 14 (  Trying 34.233.8.184...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 15 (connect to 34.233.8.184 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 16 (  Trying 34.233.154.194...)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 17 (connect to 34.233.154.194 port 443 failed: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 18 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-16.20.06:252][229]LogHttp: Warning: 000001C64F041780: libcurl info message cache 19 (Closing connection 19)
+[2018.05.30-16.21.22:793][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.21.22:807][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.21.22:807][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.21.22:807][925]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:21:22 PM)
+[2018.05.30-16.21.22:807][925]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.21.22:809][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2018.05.30-16.21.22:809][925]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.21.22:809][925]LogPlayLevel: PIE: World Init took: (0.000419s)
+[2018.05.30-16.21.22:810][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.002637s)
+[2018.05.30-16.21.22:828][925]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.21.22:833][925]LogInit: FAudioDevice initialized.
+[2018.05.30-16.21.22:861][925]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.21.22:863][925]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.21.22:863][925]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.21.22:863][925]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.21.22
+[2018.05.30-16.21.22:863][925]LogWorld: Bringing up level for play took: 0.000981
+[2018.05.30-16.21.22:864][925]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main -0.124
+[2018.05.30-16.21.22:864][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.21.26:202][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.21.26:235][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.21.48:391][ 93]BlueprintLog: New page: Compile BP_Racket_L
+[2018.05.30-16.21.48:998][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Racket_L" FILE="../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset" SILENT=true
+[2018.05.30-16.21.49:042][130]LogSavePackage: Save=36.14ms
+[2018.05.30-16.21.49:042][130]LogSavePackage: Moving '../../../../../Unreal Projects/Pong/Saved/BP_Racket_L260327DD4D2DF2B7482A1CBB31C89590.tmp' to '../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset'
+[2018.05.30-16.21.49:043][130]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/Pong/Content/BP/BP_Racket_L.uasset
+[2018.05.30-16.21.49:880][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.30-16.21.49:900][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.21.49:900][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.30-16.21.49:900][229]PIE: New page: PIE session: Field_Main (May 30, 2018, 10:21:49 PM)
+[2018.05.30-16.21.49:900][229]LogPlayLevel: Creating play world package: /Game/Level_s/UEDPIE_0_Field_Main
+[2018.05.30-16.21.49:902][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2018.05.30-16.21.49:903][229]LogAIModule: Creating AISystem for world Field_Main
+[2018.05.30-16.21.49:903][229]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.05.30-16.21.49:903][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_s/Field_Main.Field_Main to /Game/Level_s/UEDPIE_0_Field_Main.Field_Main (0.003049s)
+[2018.05.30-16.21.49:921][229]LogInit: XAudio2 using 'Динамики (2- Rapoo Wireless Audio)' : 2 channels at 32 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.30-16.21.49:926][229]LogInit: FAudioDevice initialized.
+[2018.05.30-16.21.49:963][229]LogLoad: Game class is 'BP_Pong_GameMode_C'
+[2018.05.30-16.21.49:964][229]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.21.49:964][229]PIE: Warning: Invalid Simulate Options: Body (BP_Hockey_47.StaticMesh SM_Hockey) is set to simulate physics but Collision Enabled is incompatible
+[2018.05.30-16.21.49:964][229]LogWorld: Bringing World /Game/Level_s/UEDPIE_0_Field_Main.Field_Main up for play (max tick rate 0) at 2018.05.30-19.21.49
+[2018.05.30-16.21.49:964][229]LogWorld: Bringing up level for play took: 0.000920
+[2018.05.30-16.21.49:966][229]PIE: Play in editor start time for /Game/Level_s/UEDPIE_0_Field_Main 0.978
+[2018.05.30-16.21.49:966][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.22.02:353][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.22.02:403][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_s/Field_Main.Field_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main' with GeneratedClass '/Game/Level_s/Field_Main.Field_Main_C' with ClassGeneratedBy '/Game/Level_s/Field_Main.Field_Main:PersistentLevel.Field_Main'
+[2018.05.30-16.23.42:906][955]LogUObjectBase: Warning: Object is not registered
+[2018.05.30-16.23.43:117][955]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.211 s
+[2018.05.30-16.23.43:117][955]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.30-16.23.43:117][955]LogOutputDevice: Error: 
+[2018.05.30-16.23.43:117][955]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.05.30-16.23.43:117][955]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: Stack: 
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000071CE2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000071A8123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000071A9B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000059FC33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000006C9C03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000057D73EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000057C074AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000057C0ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000057D38225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000701A7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000701ACE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000703E9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x0000000070203484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000701DB68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000701CD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000007ED0E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000007ED01A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000007ED103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000007ECFD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000A767B85D USER32.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000A767B1EF USER32.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000007ED11516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000004E1A50C8 UE4Editor.exe!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000004E1B5430 UE4Editor.exe!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000004E1B54AA UE4Editor.exe!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000004E1C2379 UE4Editor.exe!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x000000004E1C3D57 UE4Editor.exe!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000A7811FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: [Callstack] 0x00000000A818F061 ntdll.dll!UnknownFunction []
+[2018.05.30-16.23.43:118][955]LogOutputDevice: Error: 
+[2018.05.30-16.23.43:121][955]LogStats:                SubmitErrorReport -  0.000 s
